@@ -9,3 +9,24 @@ mkdir Project2
 cd Project2
 git init
 nano f1.txt
+
+
+TODO
+______
+projet1
+
+1 classe afficher Bonjour
+.gitignore
+depot git
+commit
+
+2 modification
+ tester si on est le 1/1/2020
+ bonne année
+ commit
+ 
+ 3 modification demande civilité, affiche "bonjour" + civilité
+ commit
+ 
+ Scanner s= new Scanner();
+ s.next();
