@@ -3,3 +3,9 @@ git config --global user.email " "
 git config --global core.pager ''
 git config --list (Affiche la liste de notre configuration)
 git config user.email (permet de voir la valeur de la variable)
+
+
+mkdir Project2
+cd Project2
+git init
+nano f1.txt
